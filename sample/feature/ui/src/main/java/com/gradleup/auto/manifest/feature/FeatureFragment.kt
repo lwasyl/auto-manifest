@@ -4,7 +4,7 @@ import android.os.Bundle
 import android.view.View
 import androidx.fragment.app.Fragment
 import com.gradleup.auto.manifest.sample.feature.FeatureRepository
-import com.gradleup.auto.manifest.sample.feature.ui.R
+import com.hardcoded.R
 
 class FeatureFragment : Fragment(R.layout.feature_fragment) {
 
